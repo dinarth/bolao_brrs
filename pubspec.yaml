@@ -1,4 +1,4 @@
-name: controle_lote
+name: bolao_brrs
 description: Projeto para controlar os lotes adquiridos.
 
 # The following defines the version and build number for your application.
@@ -29,7 +29,7 @@ dependencies:
   firebase_core: ^0.4.0+5 #recursos básicos
   cloud_firestore: ^0.12.5 #banco de dados
   firebase_storage: ^3.0.1 #armazenamento de arquivos
-  firebase_auth: ^0.11.1+6 #autenticacao
+  firebase_auth: ^0.15.0+1 #autenticacao
   #########################
   bloc_pattern: ^1.5.2
   shimmer: ^1.0.0
